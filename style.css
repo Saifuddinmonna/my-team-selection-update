@@ -1,0 +1,24 @@
+
+.header-section{
+        background-image: url(pic-of-players/headerpic.png);
+        border-radius: 14px;
+        background-repeat: no-repeat;
+        height: 428px;
+        background-position: center;
+        background-size: cover;
+
+}
+#calculation-div{
+        min-width: 3;
+}
+#selected-v #total-calculate{
+        height: 300px;
+        min-width: 200px;
+}
+ #total-calculate{
+        min-height: 400px;
+        min-width: 200px;
+}
+#footer-id{
+        min-height: 200px;
+}
